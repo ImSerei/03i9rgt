@@ -8,3 +8,8 @@ Test Molt 4
 ~/parabot$ poetry install
 # or with pip
 ~/parabot$ pip3 install -r requirements.txt
+
+# with poetry
+~/parabot$ poetry run python simple_bot.py
+# or with pip
+~/parabot$ python3 simple_bot.py

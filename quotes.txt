@@ -3,3 +3,8 @@ Test Molt 1
 Test Molt 2
 Test Molt 3
 Test Molt 4
+
+# with poetry
+~/parabot$ poetry install
+# or with pip
+~/parabot$ pip3 install -r requirements.txt
